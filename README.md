@@ -1,7 +1,7 @@
 # MECE Problem-Solving App
 
 Welcome to the MECE Problem-Solving App README. This document provides a detailed overview of our application, including how to get started, use the app effectively, and where to find additional support.
-
+link to the app: https://colab.research.google.com/drive/1Y4RaP-SVsY21yaTGf69sJpLKsgeXtcf0?usp=sharing
 ## Introduction
 
 The MECE Problem-Solving App is an AI-powered tool designed to help users structure and solve complex problems using the Mutually Exclusive, Collectively Exhaustive (MECE) principle. By breaking down problems into clear, non-overlapping categories, the app facilitates a comprehensive approach to problem-solving.
